@@ -1,6 +1,6 @@
-### Hi there 👋
 
-### Ola! Eu sou o Nelio Minzo
+
+### Ola! Eu sou o Nélio Minzo
 
  ![Wix](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)
  ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
